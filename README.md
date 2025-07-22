@@ -1,4 +1,4 @@
 # Demo
 This is my first repository.
 <br>
-Author- Apurba Bhattarai
+Author- Apurba Bhattarai (Github);
